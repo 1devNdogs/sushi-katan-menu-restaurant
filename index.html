@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+
+	<link rel="stylesheet" href="css/bootstrap.css"> <!-- CSS reset -->
+	<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
+	<link rel="stylesheet" href="css/style.css"> <!-- Resource style -->
+	<script src="js/modernizr.js"></script> <!-- Modernizr -->
+  	
+	<title>Menu | Sushi Katan</title>
+</head>
+<body>
+	<header class="cd-header">
+		<h1>Sushi Katan</h1>
+	</header>
+
+	<main class="cd-main-content">
+		<div class="cd-tab-filter-wrapper">
+			<div class="cd-tab-filter">
+				<ul class="cd-filters">
+					<li class="placeholder"> 
+						<a data-type="all" href="#0">All</a> <!-- selected option on mobile -->
+					</li> 
+					<li class="filter"><a class="selected" href="#0" data-type="all">Todo</a></li>
+					<li class="filter" data-filter=".carta"><a href="#0" data-type="color-1">Carta</a></li>
+					<li class="filter" data-filter=".promo"><a href="#0" data-type="color-1">Promociones</a></li>
+					<li class="filter" data-filter=".liquidos"><a href="#0" data-type="color-2">Liquidos</a></li>
+					<li class="filter" data-filter=".agregados"><a href="#0" data-type="color-2">Agregados</a></li>
+				</ul> <!-- cd-filters -->
+			</div> <!-- cd-tab-filter -->
+		</div> <!-- cd-tab-filter-wrapper -->
+
+		<section class="cd-gallery">
+			<ul>
+				<li class="mix carta promo stats-container">
+					<span class="product_price">$ 9.900</span>
+					<span class="product_name">1.- Avocado Rolls</span>    
+					<p>Salmon, Queso Crema</p>                                            
+				</li>
+				<li class="mix carta promo stats-container">
+					<span class="product_price">$ 4.100</span>
+					<span class="product_name">2.- Ebi Cheese Tempura Roll</span>    
+					<p>Tempura camarón, queso crema, cebollín</p>                                            
+				</li>
+				<li class="mix carta promo stats-container">
+					<span class="product_price">4.- Kani Roll </span>
+					<span class="product_name">Kanikama, queso crema, palta. </span>    
+					<p>$ 3.800</p>                                            
+				</li>
+
+
+
+				<li class="mix carta promo stats-container">
+					<span class="product_price"> </span>
+					<span class="product_name"> </span>    
+					<p> </p>                                            
+				</li>
+				<li class="gap"></li>
+				<li class="gap"></li>
+				<li class="gap"></li>
+			</ul>
+			<div class="cd-fail-message">No results found</div>
+		</section> <!-- cd-gallery -->
+
+		<div class="cd-filter">
+			<form>
+				<div class="cd-filter-block">
+					<h4>Search</h4>
+					
+					<div class="cd-filter-content">
+						<input type="search" placeholder="Ej: Palta salmon queso crema...">
+					</div> <!-- cd-filter-content -->
+				</div> <!-- cd-filter-block -->
+
+				<div class="cd-filter-block">
+					<h4>Check boxes</h4>
+
+					<ul class="cd-filter-content cd-filters list">
+						<li>
+							<input class="filter" data-filter=".palta" type="checkbox" id="palta">
+			    			<label class="checkbox-label" for="palta">Envuelto en palta</label>
+						</li>
+
+						<li>
+							<input class="filter" data-filter=".salmon" type="checkbox" id="salmon">
+							<label class="checkbox-label" for="salmon">Envuelto en salmon</label>
+						</li>
+
+						<li>
+							<input class="filter" data-filter=".california" type="checkbox" id="california">
+							<label class="checkbox-label" for="california">California rolls</label>
+						</li>
+						<li>
+							<input class="filter" data-filter=".especial" type="checkbox" id="especial">
+							<label class="checkbox-label" for="especial">Especial Rolls (9 Bocados)</label>
+						</li>
+						<li>
+							<input class="filter" data-filter=".fritos" type="checkbox" id="fritos">
+							<label class="checkbox-label" for="fritos">Especiales fritos (9 bocados)</label>
+						</li>
+						<li>
+							<input class="filter" data-filter=".hasomi" type="checkbox" id="hasomi">
+							<label class="checkbox-label" for="hasomi">Hasomi Rolls (Env. Nori) (6 Bocados)</label>
+						</li>
+						<li>
+							<input class="filter" data-filter=".nigiri" type="checkbox" id="nigiri">
+							<label class="checkbox-label" for="nigiri">Nigiri</label>
+						</li>
+						<li>
+							<input class="filter" data-filter=".temaki" type="checkbox" id="temaki">
+							<label class="checkbox-label" for="temaki">Temaki</label>
+						</li>
+						<li>
+							<input class="filter" data-filter=".sashimi" type="checkbox" id="sashimi">
+							<label class="checkbox-label" for="sashimi">Sashimi</label>
+						</li>
+						<li>
+							<input class="filter" data-filter=".caliente" type="checkbox" id="caliente">
+							<label class="checkbox-label" for="caliente">Comida Caliente</label>
+						</li>
+						<li>
+							<input class="filter" data-filter=".nuevos" type="checkbox" id="nuevos">
+							<label class="checkbox-label" for="nuevos">Nuevos Rolls</label>
+						</li>
+					</ul> <!-- cd-filter-content -->
+				</div> <!-- cd-filter-block -->
+
+			</form>
+
+			<a href="#0" class="cd-close">Close</a>
+		</div> <!-- cd-filter -->
+
+		<a href="#0" class="cd-filter-trigger"></a>
+	</main> <!-- cd-main-content -->
+<script src="js/jquery-2.1.1.js"></script>
+<script src="js/jquery.mixitup.min.js"></script>
+<script src="js/main.js"></script> <!-- Resource jQuery -->
+<script src="js/bootstrap.js"></script> <!-- Resource jQuery -->
+</body>
+</html>
