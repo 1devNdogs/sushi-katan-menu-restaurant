@@ -105,14 +105,18 @@ jQuery(document).ready(function($){
 	    	if ((inputText.length) > 0) {            
 	      		$('.mix').each(function() {
 		        	var $this = $(this);
-		        
-		        	// add item to be filtered out if input text matches items inside the title   
-		        	if($this.attr('class').toLowerCase().match(inputText)) {
-		          		$matching = $matching.add(this);
-		        	} else {
-		          		// removes any previously matched item
-		          		$matching = $matching.not(this);
-		        	}
+					// get all words in inputText
+					var res = inputText.replace(/ +(?= )/g,'').split(" ");
+					for (var i = 0; i < res.length; i++) {
+						// add item to be filtered out if input text matches items inside the title   
+						if($this.attr('class').toLowerCase().match(res[i])) {
+							$matching = $matching.add(this);
+					  } else {
+							// removes any previously matched item
+							$matching = $matching.not(this);
+					  }
+					}
+		        	
 	      		});
 	      		$('.cd-gallery ul').mixItUp('filter', $matching);
 	    	} else {

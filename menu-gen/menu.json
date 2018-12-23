@@ -1,0 +1,867 @@
+[
+  
+  {
+    "A": "1",
+    "B": "Avocado Roll",
+    "C": "salmón, queso crema",
+    "D": "4000",
+    "E": "carta",
+    "F": "envuelto-palta"
+  },
+  {
+    "A": "2",
+    "B": "Ebi Cheese Roll ",
+    "C": "tempura camarón, queso crema, cebollin",
+    "D": "4100",
+    "E": "carta",
+    "F": "envuelto-palta"
+  },
+  {
+    "A": "3",
+    "B": "Delicia Roll",
+    "C": "camarón, salmón, queso crema, palta",
+    "D": "4100",
+    "E": "carta",
+    "F": "envuelto-palta"
+  },
+  {
+    "A": "4",
+    "B": "Kani Roll ",
+    "C": "kanikama, queso crema, palta ",
+    "D": "3800",
+    "E": "carta",
+    "F": "envuelto-palta"
+  },
+  {
+    "A": "5",
+    "B": "Tako Roll ",
+    "C": "pulpo, queso crema, cebollín ",
+    "D": "4000",
+    "E": "carta",
+    "F": "envuelto-palta"
+  },
+  {
+    "A": "6",
+    "B": "Unagui Roll ",
+    "C": "anguila, queso crema, palta ",
+    "D": "4000",
+    "E": "carta",
+    "F": "envuelto-palta"
+  },
+  {
+    "A": "7",
+    "B": "Smoky Rol' ",
+    "C": "salmón ahumado, queso crema, palta ",
+    "D": "4000",
+    "E": "carta",
+    "F": "envuelto-palta"
+  },
+  {
+    "A": "8",
+    "B": "Tokio Roll ",
+    "C": "camarón, salmón, palta ",
+    "D": "4000",
+    "E": "carta",
+    "F": "envuelto-palta"
+  },
+  {
+    "A": "9",
+    "B": "Natura Roll ",
+    "C": "queso crema, pepino, champiñón, ciboulette ",
+    "D": "3900",
+    "E": "carta",
+    "F": "envuelto-palta"
+  },
+  {
+    "A": "10",
+    "B": "Spice Roll ",
+    "C": "kanikama, palta, masago, salsa spícy ",
+    "D": "3800",
+    "E": "carta",
+    "F": "envuelto-palta"
+  },
+  {
+    "A": "11",
+    "B": "Sake Tempura Roll ",
+    "C": "salmón tempura, queso crema, cebollín, masago ",
+    "D": "4100",
+    "E": "carta",
+    "F": "envuelto-palta"
+  },
+  {
+    "A": "12",
+    "B": "Fuji Roll ",
+    "C": "camarón, cebollín, queso crema ",
+    "D": "4000",
+    "E": "carta",
+    "F": "envuelto-palta"
+  },
+  {
+    "A": "13",
+    "B": "Chicken Ron ",
+    "C": "queso crema, cebollín, pollo teriyaki ",
+    "D": "3800",
+    "E": "carta",
+    "F": "envuelto-palta"
+  },
+  {
+    "A": "14",
+    "B": "Otate Roll ",
+    "C": "ostión furay, queso crema, cebollín ",
+    "D": "4600",
+    "E": "carta",
+    "F": "envuelto-palta"
+  },
+  {
+    "A": "15",
+    "B": "Katsu Roll ",
+    "C": "pollo katsu, queso crema, cebollín ",
+    "D": "3800",
+    "E": "carta",
+    "F": "envuelto-palta"
+  },
+  {
+    "A": "16",
+    "B": "Cheing Roll ",
+    "C": "queso crema, kanikama, palta ",
+    "D": "3800",
+    "E": "carta",
+    "F": "envuelto-salmon"
+  },
+  {
+    "A": "17",
+    "B": "Cory Roll ",
+    "C": "queso crema, camarón, cebollín ",
+    "D": "4000",
+    "E": "carta",
+    "F": "envuelto-salmon"
+  },
+  {
+    "A": "18",
+    "B": "Sake Roll ",
+    "C": "camarón, palta ",
+    "D": "4000",
+    "E": "carta",
+    "F": "envuelto-salmon"
+  },
+  {
+    "A": "19",
+    "B": "Sake Cheese Roll ",
+    "C": "salmón, queso crema, palta ",
+    "D": "4000",
+    "E": "carta",
+    "F": "envuelto-salmon"
+  },
+  {
+    "A": "20",
+    "B": "Ebi Cheese Roll ",
+    "C": "camarón, queso crema, palta ",
+    "D": "4000",
+    "E": "carta",
+    "F": "envuelto-salmon"
+  },
+  {
+    "A": "21",
+    "B": "Octo Roll ",
+    "C": "pulpo, queso crema, cebollín, pepino ",
+    "D": "4000",
+    "E": "carta",
+    "F": "envuelto-salmon"
+  },
+  {
+    "A": "22",
+    "B": "Elfish Roll",
+    "C": "camarón, palta, cebollín ",
+    "D": "4000",
+    "E": "carta",
+    "F": "envuelto-salmon"
+  },
+  {
+    "A": "23",
+    "B": "Satay Roll",
+    "C": "queso crema, camarón tempura, cebollín ",
+    "D": "4100",
+    "E": "carta",
+    "F": "envuelto-salmon"
+  },
+  {
+    "A": "24",
+    "B": "Sheenoy Roll ",
+    "C": "camarón, queso crema, salmón ",
+    "D": "4100",
+    "E": "carta",
+    "F": "california"
+  },
+  {
+    "A": "25",
+    "B": "Rainbow Rol",
+    "C": "queso crema, masago, palta,kanikoma, envuelto en palta y salmón ",
+    "D": "4100",
+    "E": "carta",
+    "F": "california"
+  },
+  {
+    "A": "26",
+    "B": "California Sake ",
+    "C": "salmón, palta, envuelto en sésamo o masago ",
+    "D": "2900",
+    "E": "carta",
+    "F": "california"
+  },
+  {
+    "A": "27",
+    "B": "California Ebi ",
+    "C": "camarón, palta, envuelto en sésamo o masago ",
+    "D": "2900",
+    "E": "carta",
+    "F": "california"
+  },
+  {
+    "A": "28",
+    "B": "California Kani ",
+    "C": "kanikama, palta, envuelto en sésamo o masago ",
+    "D": "2900",
+    "E": "carta",
+    "F": "california"
+  },
+  {
+    "A": "29",
+    "B": "California Maki ",
+    "C": "kanikama, pepino, palta, envuelto en sésamo o masago ",
+    "D": "2900",
+    "E": "carta",
+    "F": "california"
+  },
+  {
+    "A": "30",
+    "B": "California Katsu ",
+    "C": "pollo katsu, queso crema, cebollín, envuelto en sésamo ",
+    "D": "2900",
+    "E": "carta",
+    "F": "california"
+  },
+  {
+    "A": "31",
+    "B": "California Tako ",
+    "C": "pulpo, queso crema, cebollín, envuelto en sésamo ",
+    "D": "2900",
+    "E": "carta",
+    "F": "california"
+  },
+  {
+    "A": "32",
+    "B": "Funghy lechuga Roll ",
+    "C": "champiñón tempura, queso crema, ciboulette, envuelto en lechuga, aderezo del chef ",
+    "D": "3900",
+    "E": "carta",
+    "F": "vegetarianos"
+  },
+  {
+    "A": "33",
+    "B": "Fresh Roli ",
+    "C": "palmito, pepino, palta, envuelto en ciboulette ",
+    "D": "3900",
+    "E": "carta",
+    "F": "vegetarianos"
+  },
+  {
+    "A": "34",
+    "B": "Salitake Roll ",
+    "C": "shitake, cebollín, pimentón, queso crema, envuelto en sésamo ",
+    "D": "3900",
+    "E": "carta",
+    "F": "vegetarianos"
+  },
+  {
+    "A": "35",
+    "B": "Scratch Natura ",
+    "C": "queso crema, palta, pepino, envuelto en ciboulette ",
+    "D": "3900",
+    "E": "carta",
+    "F": "vegetarianos"
+  },
+  {
+    "A": "36",
+    "B": "Rico Roll ",
+    "C": "salmón, palta, cebollin, envuefto en queso crema y camarón ecuatoriano ",
+    "D": "4500",
+    "E": "carta",
+    "F": "especiales"
+  },
+  {
+    "A": "37",
+    "B": "Chily Roll ",
+    "C": "kanikama, queso crema, masago,envuelto en pulpo spicy y ciboulette ",
+    "D": "4500",
+    "E": "carta",
+    "F": "especiales"
+  },
+  {
+    "A": "38",
+    "B": "Toto Roll ",
+    "C": "ostiones salteados en ~guilla, queso crema, ciboulettlyimentén, envuelto en salmón y crispy ",
+    "D": "4990",
+    "E": "carta",
+    "F": "especiales"
+  },
+  {
+    "A": "39",
+    "B": "Futomaki Ron ",
+    "C": "queso crema, palmito, cebollín kanikama, envuelto enlorí ",
+    "D": "4500",
+    "E": "carta",
+    "F": "especiales"
+  },
+  {
+    "A": "40",
+    "B": "Palmito Roll ",
+    "C": "palmito, palta y masago, envuelto en nuez",
+    "D": "4500",
+    "E": "carta",
+    "F": "especiales"
+  },
+  {
+    "A": "41",
+    "B": "Xavi Roll ",
+    "C": "camarón, queso crema, cebollín, envuelto en batido tempura ",
+    "D": "4100",
+    "E": "carta",
+    "F": "especiales-fritos"
+  },
+  {
+    "A": "42",
+    "B": "Tori Rail ",
+    "C": "camarón, salmón, queso crema, envuelto en pollo apanado ",
+    "D": "4700",
+    "E": "carta",
+    "F": "especiales-fritos"
+  },
+  {
+    "A": "43",
+    "B": "Hot Roll ",
+    "C": "salmón, queso crema, cebollin, envuelto en salmón cocido acompañado de salsa spicy ",
+    "D": "4700",
+    "E": "carta",
+    "F": "especiales-fritos"
+  },
+  {
+    "A": "44",
+    "B": "Nagasaki Roll ",
+    "C": "salmón, queso crema, ciboulette, envuelto en salmón apanado, acompañado con salsa katsu ",
+    "D": "4700",
+    "E": "carta",
+    "F": "especiales-fritos"
+  },
+  {
+    "A": "45",
+    "B": "Many Roll ",
+    "C": "queso crema, cebollin, champiñón, camarón, envuelto en salmón apanado ",
+    "D": "4800",
+    "E": "carta",
+    "F": "especiales-fritos"
+  },
+  {
+    "A": "46",
+    "B": "Gorian Roll ",
+    "C": "camarón, queso, ciboulette y pimentón apanado en coco rallado y panko, acompañado de salsa unagui ",
+    "D": "4800",
+    "E": "carta",
+    "F": "especiales-fritos"
+  },
+  {
+    "A": "47",
+    "B": "Unagui Hot ",
+    "C": "anguila, queso crema, pimentón, envuelto en salmón cocido ",
+    "D": "4700",
+    "E": "carta",
+    "F": "especiales-fritos"
+  },
+  {
+    "A": "48",
+    "B": "Futomaki Tempura ",
+    "C": "salmón, queso crema, cilantro, salsa spicy, envuelto en nori lempira ",
+    "D": "4800",
+    "E": "carta",
+    "F": "especiales-fritos"
+  },
+  {
+    "A": "49",
+    "B": "Nagasaki Ebi Rail ",
+    "C": "camarón, queso cremo, cebollin, envuelto en salmón apanado ",
+    "D": "4900",
+    "E": "carta",
+    "F": "especiales-fritos"
+  },
+  {
+    "A": "50",
+    "B": "Hosomaki Sake ",
+    "C": "arroz, salmón ",
+    "D": "2000",
+    "E": "carta",
+    "F": "hosomaki"
+  },
+  {
+    "A": "51",
+    "B": "Hosornoki Ebi ",
+    "C": "arroz, camarón ",
+    "D": "2000",
+    "E": "carta",
+    "F": "hosomaki"
+  },
+  {
+    "A": "52",
+    "B": "Hosornaki Palta ",
+    "C": "arroz, palta ",
+    "D": "2000",
+    "E": "carta",
+    "F": "hosomaki"
+  },
+  {
+    "A": "53",
+    "B": "Hosomaki Kani ",
+    "C": "arroz, konikamo ",
+    "D": "2000",
+    "E": "carta",
+    "F": "hosomaki"
+  },
+  {
+    "A": "54",
+    "B": "Hosomaki Tempura ",
+    "C": "arroz, queso crema, mosago, ciboulette tempure ",
+    "D": "2000",
+    "E": "carta",
+    "F": "hosomaki"
+  },
+  {
+    "A": "55",
+    "B": "Nigiri Soke ",
+    "C": "arroz, solméit ",
+    "D": "1800",
+    "E": "carta",
+    "F": "nigiris"
+  },
+  {
+    "A": "56",
+    "B": "Nigiri Ebi ",
+    "C": "arroz, convén ",
+    "D": "1800",
+    "E": "carta",
+    "F": "nigiris"
+  },
+  {
+    "A": "57",
+    "B": "Nigiri Toko ",
+    "C": "arroz, pulpo ",
+    "D": "1800",
+    "E": "carta",
+    "F": "nigiris"
+  },
+  {
+    "A": "58",
+    "B": "Nigiri Unogui ",
+    "C": "arroz, anguila ",
+    "D": "1800",
+    "E": "carta",
+    "F": "nigiris"
+  },
+  {
+    "A": "59",
+    "B": "Temaki Sake ",
+    "C": "arroz, salmón, masago, cebollín, palta ",
+    "D": "2900",
+    "E": "carta",
+    "F": "temaki"
+  },
+  {
+    "A": "60",
+    "B": "Temaki Ebi ",
+    "C": "arroz, camarón, masago, cebollín, palta ",
+    "D": "2900",
+    "E": "carta",
+    "F": "temaki"
+  },
+  {
+    "A": "61",
+    "B": "Temaki Camarón Tempura ",
+    "C": "arroz, camarón tempura, cebollín, palta, masago con salsa unagui ",
+    "D": "2900",
+    "E": "carta",
+    "F": "temaki"
+  },
+  {
+    "A": "62",
+    "B": "Temaki Tako ",
+    "C": "arroz, pulpo, masago, cebollín, palta ",
+    "D": "2900",
+    "E": "carta",
+    "F": "temaki"
+  },
+  {
+    "A": "63",
+    "B": "Temaki Kani ",
+    "C": "arroz, kanikama, cebollín, palta, masago ",
+    "D": "2900",
+    "E": "carta",
+    "F": "temaki"
+  },
+  {
+    "A": "64",
+    "B": "Sashími del Chef ",
+    "C": "(12 cortes a elección del chef) ",
+    "D": "4900",
+    "E": "carta",
+    "F": "sashimi"
+  },
+  {
+    "A": "65",
+    "B": "Sashimi Especial ",
+    "C": "(12 cortes a su elección) ",
+    "D": "5900",
+    "E": "carta",
+    "F": "sashimi"
+  },
+  {
+    "A": "66",
+    "B": "Sashimi del Chef ",
+    "C": "(9 cortes a elección del chef)  ",
+    "D": "3800",
+    "E": "carta",
+    "F": "sashimi"
+  },
+  {
+    "A": "67",
+    "B": "Sashimí Especial ",
+    "C": "(9 cortes a su elección) ",
+    "D": "4300",
+    "E": "carta",
+    "F": "sashimi"
+  },
+  {
+    "A": "68",
+    "B": "Sakana Tataki ",
+    "C": "mix de pescado acompañado de aceite de sésamo, cebollín y semilla de sésamo ",
+    "D": "4900",
+    "E": "carta",
+    "F": "sashimi"
+  },
+  {
+    "A": "69",
+    "B": "Ceviche del día                                 ",
+    "C": "",
+    "D": "4900",
+    "E": "carta",
+    "F": "sashimi"
+  },
+  {
+    "A": "70",
+    "B": "Giosas de Cerdo ",
+    "C": "5 unidades de empanaditas rellerias con cerdo y verduras ",
+    "D": "2100",
+    "E": "carta",
+    "F": "caliente"
+  },
+  {
+    "A": "71",
+    "B": "Giosas Ebi ",
+    "C": "5 unidades de empanaditas rellenas con camarón y verduras ",
+    "D": "2400",
+    "E": "carta",
+    "F": "caliente"
+  },
+  {
+    "A": "72",
+    "B": "Giosas de Pollo ",
+    "C": "5 unidades de empanaditas rellenas con pollo y verduras ",
+    "D": "2300",
+    "E": "carta",
+    "F": "caliente"
+  },
+  {
+    "A": "73",
+    "B": "Ebi Furay ",
+    "C": "5 unidades de camarón apanado en panko, fritos y acompañados con salsa katsu ",
+    "D": "3900",
+    "E": "carta",
+    "F": "caliente"
+  },
+  {
+    "A": "74",
+    "B": "Sake Furay ",
+    "C": "5 cortes de salmón apanado en panko, fritos y acompañados con salsa katsu ",
+    "D": "3900",
+    "E": "carta",
+    "F": "caliente"
+  },
+  {
+    "A": "75",
+    "B": "Yakimeshi ",
+    "C": "arroz salteado con verduras y pollo ",
+    "D": "4100",
+    "E": "carta",
+    "F": "caliente"
+  },
+  {
+    "A": "76",
+    "B": "Gohan ",
+    "C": "arroz blanco ",
+    "D": "800",
+    "E": "carta",
+    "F": "caliente"
+  },
+  {
+    "A": "77",
+    "B": "Yakisoba ",
+    "C": "fideos integrales salteados con pollo, camarón, cebollín ",
+    "D": "4400",
+    "E": "carta",
+    "F": "caliente"
+  },
+  {
+    "A": "78",
+    "B": "Pollo Teriyaki ",
+    "C": "cortes de pollo salteados y reducidos en salsa teriyaki ",
+    "D": "4000",
+    "E": "carta",
+    "F": "caliente"
+  },
+  {
+    "A": "79",
+    "B": "Salmón Teriyaki ",
+    "C": "cortes de salmón salteados y reducidos en salsa teriyaki ",
+    "D": "4700",
+    "E": "carta",
+    "F": "caliente"
+  },
+  {
+    "A": "80",
+    "B": "Yakitori ",
+    "C": "2 brochetas de pollo con pimentón y cebollín selladas y reducidas en salsa teriyaki ",
+    "D": "3200",
+    "E": "carta",
+    "F": "caliente"
+  },
+  {
+    "A": "81",
+    "B": "Yakiebi ",
+    "C": "2 brochetas de camarón ecuatoriano con pimentón y cebollín, selladas y reducidas en salsa teriyaki ",
+    "D": "3800",
+    "E": "carta",
+    "F": "caliente"
+  },
+  {
+    "A": "82",
+    "B": "Pollo Katsu ",
+    "C": "suprema de pollo apanada en panko y frita, acompañada de salsa katsu ",
+    "D": "3800",
+    "E": "carta",
+    "F": "caliente"
+  },
+  {
+    "A": "83",
+    "B": "Otate Furay ",
+    "C": "ostiones apanados en panko fritos y acompañados de salsa katsu ",
+    "D": "5500",
+    "E": "carta",
+    "F": "caliente"
+  },
+  {
+    "A": "85",
+    "B": "Gohan Mixto ",
+    "C": "arroz, mazago, cebollín, palta (6 pollo ó camarón ó salmón) ",
+    "D": "4900",
+    "E": "carta",
+    "F": "caliente"
+  },
+  {
+    "A": "86",
+    "B": "Trilogía de Camarones ",
+    "C": "mix de camarones en sésamo, tempura y furay, acompañado con salsa de anguila ",
+    "D": "4800",
+    "E": "carta",
+    "F": "caliente"
+  },
+  {
+    "A": "201",
+    "B": "Chiken Cheese. ",
+    "C": "pollo teriyaki, cebollín, palta, envuelto en queso crema ",
+    "D": "4300",
+    "E": "carta",
+    "F": "nuevos"
+  },
+  {
+    "A": "202",
+    "B": "Fuji Cheese. ",
+    "C": "camarón, palta, envuelto en queso crema ",
+    "D": "4300",
+    "E": "carta",
+    "F": "nuevos"
+  },
+  {
+    "A": "203",
+    "B": "To Tobass. ",
+    "C": "pollo katsut queso crema, cebollín, envuelto en panko ",
+    "D": "4200",
+    "E": "carta",
+    "F": "nuevos"
+  },
+  {
+    "A": "204",
+    "B": "Teri Roll. ",
+    "C": "pollo teriyaki, queso crema, envuelto en pollo apanado ",
+    "D": "4600",
+    "E": "carta",
+    "F": "nuevos"
+  },
+  {
+    "A": "205",
+    "B": "Tempura Sake. ",
+    "C": "salmón, queso crema, cebollín, envuelto en tempura ",
+    "D": "4300",
+    "E": "carta",
+    "F": "nuevos"
+  },
+  {
+    "A": "206",
+    "B": "Natura Tempura. ",
+    "C": "champiñon, queso crema, ciboulette, envuelto en tempura ",
+    "D": "3900",
+    "E": "carta",
+    "F": "nuevos"
+  },
+  {
+    "A": "207",
+    "B": "Panko Cheese. ",
+    "C": "qgeso crema, cebollín, pimentón, camarón apanado, envuelto en panko ",
+    "D": "4400",
+    "E": "carta",
+    "F": "nuevos"
+  },
+  {
+    "A": "208",
+    "B": "Totoreto Light. ",
+    "C": "queso crema, pepino, palta, cebollín, envuelto en sésamo ",
+    "D": "2900",
+    "E": "carta",
+    "F": "nuevos"
+  },
+  {
+    "A": "209",
+    "B": "Palmito Hot. ",
+    "C": "queso cremat cebollín, pimentón, palmito, envuelto en panko ",
+    "D": "4300",
+    "E": "carta",
+    "F": "nuevos"
+  },
+  {
+    "A": "210",
+    "B": "4 palitos de ",
+    "C": "salmón con queso, con salsa teriyaki",
+    "D": "4900",
+    "E": "carta",
+    "F": "nuevos"
+  },
+  {
+    "A": "87",
+    "B": "80 Piezas (6 a 7 Personas). ",
+    "C": "Califonria Kani, Scratch Natura, Fuji Roll, Toto Boss, Giosa Cerdo, Cheing Roll, Hasomaki Palta Queso, Xavi Roll, Giosa Pollo ",
+    "D": "28200",
+    "E": "promo",
+    "F": "promo"
+  },
+  {
+    "A": "88",
+    "B": "41 Piezas (2 Personas). ",
+    "C": "Califonria Kani, Scratch Natura, Fuji Roll, Toto Boss, Giosa Cerdo  ",
+    "D": "13900",
+    "E": "promo",
+    "F": "promo"
+  },
+  {
+    "A": "89",
+    "B": "80 Piezas (3 a 4 Personas). ",
+    "C": "Califonria Kani, Scratch Natura, Fuji Roll, Toto Boss, Giosa Cerdo, Cheing Roll, Hasomaki Palta Queso  ",
+    "D": "22000",
+    "E": "promo",
+    "F": "promo"
+  },
+  {
+    "A": "90",
+    "B": "18 Piezas (1 Persona) ",
+    "C": "Califonria Kani, Scratch Natura ",
+    "D": "6400",
+    "E": "promo",
+    "F": "promo"
+  },
+  {
+    "A": "91",
+    "B": "Bebida en lata y aguas minerales ",
+    "C": "Personales ",
+    "D": "800",
+    "E": "liquidos",
+    "F": "liquidos"
+  },
+  {
+    "A": "92",
+    "B": "Bebida 1.5 Litros ",
+    "C": "",
+    "D": "1500",
+    "E": "liquidos",
+    "F": "liquidos"
+  },
+  {
+    "A": "93",
+    "B": "Jugo 1.5 Litros ",
+    "C": "",
+    "D": "1500",
+    "E": "liquidos",
+    "F": "liquidos"
+  },
+  {
+    "A": "94",
+    "B": "Queso ",
+    "C": "Agregado ",
+    "D": "300",
+    "E": "agregado",
+    "F": "agregado"
+  },
+  {
+    "A": "95",
+    "B": "Palta ",
+    "C": "Agregado ",
+    "D": "400",
+    "E": "agregado",
+    "F": "agregado"
+  },
+  {
+    "A": "96",
+    "B": "Soja, wasabi, jenjibre ",
+    "C": "Agregado ",
+    "D": "300",
+    "E": "agregado",
+    "F": "agregado"
+  },
+  {
+    "A": "97",
+    "B": "Rocoto, ciboulette, katsú, spacy ",
+    "C": "Agregado ",
+    "D": "500",
+    "E": "agregado",
+    "F": "agregado"
+  },
+  {
+    "A": "98",
+    "B": "PROMOCION 31 Piezas ",
+    "C": "Fuji Roll (Envuelto en patal)#California Kani (Envuelto en sésamo)#Hasomaki Palta (Envuelto en nori)# Giosas de pollo ",
+    "D": "9900",
+    "E": "promo",
+    "F": "promo"
+  },
+  {
+    "A": "99",
+    "B": "PROMOCION MIXTA 30 Piezas (Lunes a jueves ) ",
+    "C": "Envuelto en sésamo, champiñon, queso, cebollin#Envuelto en ciboulette, pollo apanado, cebollin, queso crema#Envuelto en panko, kanikama, cebollin, queso crema ",
+    "D": "6900",
+    "E": "promo",
+    "F": "promo"
+  }
+ ]
