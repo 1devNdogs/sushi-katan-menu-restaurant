@@ -14,6 +14,10 @@ jQuery(document).ready(function($){
 		});
 	}
 
+	var linkEl = $( '.cd-filter-trigger' );
+	linkEl.click ();
+
+
 	//mobile version - detect click event on filters tab
 	var filter_tab_placeholder = $('.cd-tab-filter .placeholder a'),
 		filter_tab_placeholder_default_value = 'Select',

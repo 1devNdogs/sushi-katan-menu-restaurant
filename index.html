@@ -17,10 +17,12 @@
 	<title>Menu | Sushi Katan</title>
 </head>
 <body>
+		 
 	<nav class="navbar navbar-expand-lg navbar-dark bg-dark" style="color:#fff">
-			<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
 			<span class="navbar-toggler-icon"></span>
-		</button>
+		  </button>
+		  <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
 		<a class="navbar-brand" href="index.html">
 			<div id="wasap-click-stat" onclick="copyToClipboard()" style="display: table">
 				<img onclick="copyToClipboard()" style="margin-right: 0.2em;"  src="img/social/whatsapp-logo.svg"> 
@@ -45,6 +47,7 @@
 			</ul>
 		</div>
 		</div>
+		</div>
 		<ul class="navbar-nav flex-row">
 			<li class="nav-item"><a class="nav-link px-2" href="#"><img src="img/social/facebook.svg"></img></a></li>
 			<li class="nav-item"><a class="nav-link px-2" href="#"><img src="img/social/instagram-logo.svg"></img></a></li>
@@ -53,14 +56,14 @@
 	</nav>
 	 
 	<header class="cd-header">
-		<h1>Sushi Katan</h1>
+		<img src="img/logo.png" style="display:block; margin:auto;" height="160">
 	</header>
 	<main class="cd-main-content">
 		<div class="cd-tab-filter-wrapper">
 			<div class="cd-tab-filter">
 				<ul class="cd-filters">
 					<li class="placeholder"> 
-						<a data-type="all" href="#0">All</a> <!-- selected option on mobile -->
+						<a data-type="all" href="#0">Menu</a> <!-- selected option on mobile -->
 					</li> 
 					<li class="filter"><a class="selected" href="#0" data-type="all">Todo</a></li>
 					<li class="filter" data-filter=".carta"><a href="#0" data-type="carta">Carta</a></li>
@@ -816,7 +819,7 @@
 <script src="js/jquery-2.1.1.js"></script>
 <script src="js/jquery.mixitup.min.js"></script>
 <script src="js/main.js"></script> <!-- Resource jQuery -->
-<script src="js/bootstrap.js"></script> <!-- Resource jQuery -->
+<script src="js/bootstrap.min.js"></script> <!-- Resource jQuery -->
 
 <script>
 jQuery('#copied').hide();

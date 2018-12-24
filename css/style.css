@@ -113,7 +113,7 @@ xtab-filter
 
 -------------------------------- */
 .cd-tab-filter-wrapper {
-  background-color: #ffffff;
+  background-color: #000;
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.08);
   z-index: 1;
 }
@@ -173,6 +173,11 @@ xtab-filter
   width: 140px;
   line-height: 50px;
   padding-left: 14px;
+  color: #fff !important;
+}
+.cd-tab-filter a:hover {
+  color: #fff !important;
+  text-decoration: none !important;
 }
 .cd-tab-filter a.selected {
   background: #000000;
