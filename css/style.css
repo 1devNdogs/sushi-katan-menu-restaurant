@@ -681,3 +681,9 @@ xcustom form elements
 	color:#15c5c5;
 	font-size:1.1em;
 }
+
+
+.bg-dark{
+  background-color: #000000 !important;
+  min-height: 48px;
+}

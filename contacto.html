@@ -9,52 +9,15 @@
 	<link rel="stylesheet" href="css/bootstrap.min.css"> <!-- CSS reset -->
 	<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
 	<link rel="stylesheet" href="css/style.css"> <!-- Resource style -->
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
-
-
 	<script src="js/modernizr.js"></script> <!-- Modernizr -->
-
+  	
 	<title>Menu | Sushi Katan</title>
 </head>
 <body>
-	<nav class="navbar navbar-expand-lg navbar-dark bg-dark" style="color:#fff">
-			<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
-			<span class="navbar-toggler-icon"></span>
-		</button>
-		<a class="navbar-brand" href="index.html">
-			<div id="wasap-click-stat" onclick="copyToClipboard()" style="display: table">
-				<img onclick="copyToClipboard()" style="margin-right: 0.2em;"  src="img/social/whatsapp-logo.svg"> 
-				<a style="display: table-cell;
-				vertical-align: middle;"> +51 123123123 <i class="fa fa-copy"></i>  </a> 
-				<span style="display: table-cell;
-				vertical-align: middle; padding-left: 4px" id="copied" style="display:none;">Copiado...</span>
-			</div>
-		</a>
-		
-		<div class="collapse navbar-collapse" id="navbar">
-			<ul class="navbar-nav mr-auto ml-auto">
-			<li class="nav-item outframe">
-				<a class="nav-link" href="menu.html">Menu</a>
-			</li>
-			<li class="nav-item outframe">
-				<a class="nav-link" href="delivery.html">Delivery</a>
-			</li>
-			<li class="nav-item outframe">
-				<a class="nav-link" href="contacto.html">Contacto</a>
-			</li>
-			</ul>
-		</div>
-		</div>
-		<ul class="navbar-nav flex-row">
-			<li class="nav-item"><a class="nav-link px-2" href="#"><img src="img/social/facebook.svg"></img></a></li>
-			<li class="nav-item"><a class="nav-link px-2" href="#"><img src="img/social/instagram-logo.svg"></img></a></li>
-			<li class="nav-item"><a class="nav-link px-2" href="#"><img src="img/social/twitter-logo-silhouette.svg"></img></a></li>
-		</ul>
-	</nav>
-	 
 	<header class="cd-header">
 		<h1>Sushi Katan</h1>
 	</header>
+
 	<main class="cd-main-content">
 		<div class="cd-tab-filter-wrapper">
 			<div class="cd-tab-filter">
@@ -817,21 +780,5 @@
 <script src="js/jquery.mixitup.min.js"></script>
 <script src="js/main.js"></script> <!-- Resource jQuery -->
 <script src="js/bootstrap.js"></script> <!-- Resource jQuery -->
-
-<script>
-jQuery('#copied').hide();
-jQuery(document).ready(function() {});
-
-function copyToClipboard(element) {
-	var temp = jQuery("<input>");
-	jQuery("body").append(temp);
-	temp.val("++51958440862").select();
-	document.execCommand("copy");
-	temp.remove();
-	jQuery('#copied').fadeIn(500);
-	jQuery('#copied').fadeOut(2000);
-}
-</script>
-
 </body>
 </html>
