@@ -283,7 +283,6 @@ xgallery
   box-shadow: 0 1px 4px rgba(255, 255, 255, 0.1);
   padding: 8px;
   display: none;
-  height: 7em;
   overflow-x: hidden;
   overflow-y: auto;
 }
@@ -316,7 +315,6 @@ xgallery
   .cd-gallery li {
     width: 48%;
     margin-bottom: 1em;
-    height: 7em;
     overflow-x: hidden;
     overflow-y: auto;
   }
@@ -331,7 +329,6 @@ xgallery
   }
   .cd-gallery li {
     width: 23%;
-    height: 7em;
     overflow-x: hidden;
     overflow-y: auto;
   }
@@ -702,7 +699,8 @@ xcustom form elements
 }
 .stats-container .product_name {
   font-size: 0.9em;
-  color: #393c45;
+  color: #3c3c3c;
+  font-weight: 600;
 }
 .stats-container p {
   font-size: 0.9em;
@@ -714,7 +712,7 @@ xcustom form elements
   float: right;
   margin-left: 4px;
   color: #15c5c5;
-  font-size: 1.1em;
+  font-size: 1.05em;
 }
 
 .bg-dark {
@@ -859,4 +857,8 @@ xcustom form elements
   [class*="col-"] {
     width: 100%;
   }
+}
+
+.menuTypeString{
+  font-weight: 100;
 }

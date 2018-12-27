@@ -14,30 +14,28 @@
     crossorigin="anonymous" />
   <script src="js/modernizr.js"></script>
   <!-- Modernizr -->
-  <title>Menu | Sushi Katan</title>
+  <title>Contacto / Delivery | Sushi Katan - San Miguel E. Ruiz Valledor 3997</title>
 </head>
 
 <body>
-  <div id="cssmenu">
+  <div id='cssmenu'>
     <ul>
       <!--<li><li><a href='#' style="padding: 15px 15px 6px 22px"><img src="img/social/whatsapp-logo.svg"></span></a></li>
-           
-               <a onclick="copyToClipboard()"><span>+51 123123123 <i class="fa fa-copy"></i></span></a> 
-            </li>-->
+         
+             <a onclick="copyToClipboard()"><span>+51 123123123 <i class="fa fa-copy"></i></span></a> 
+          </li>-->
+      <li class='last'><a href='https://www.instagram.com/sushikatan/' target="_blank"><img src="img/social/instagram-logo.svg"></a></li>
+      <li class='last'><a href='https://es-la.facebook.com/sushikatan/' target="_blank"><img src="img/social/facebook.svg"></a></li>
+      <li><a href='/index.html'><span>Menu</span></a></li>
+      <li class='active'><a href='#'><span>Contacto / Delivery</span></a></li>
       <li>
-        <a href="/index.html#"><span>Menu</span></a>
-      </li>
-      <li class="active">
-        <a href="#"><span>Contacto / Delivery</span></a>
-      </li>
-      <li>
-        <a href="https://www.google.cl/maps/place/Sushi+katan/@-33.4897602,-70.6572445,17z/data=!3m1!4b1!4m5!3m4!1s0x9662d93bcf030555:0xb6d3ce403b6456c6!8m2!3d-33.4897602!4d-70.6550558"
+        <a href='https://www.google.cl/maps/place/Sushi+katan/@-33.4897602,-70.6572445,17z/data=!3m1!4b1!4m5!3m4!1s0x9662d93bcf030555:0xb6d3ce403b6456c6!8m2!3d-33.4897602!4d-70.6550558'
           target="_blank">
-          <span><i class="fa fa-map-marker-alt"></i> SAN MIGUEL, E. Ruiz Valledor
-            3997 esq./Florencia - Telefono: 225511374</span></a>
+          <span><i class="fa fa-map-marker-alt"></i> SAN MIGUEL, E. Ruiz Valledor 3997 esq./Florencia</span>
+        </a>
       </li>
-      <li class="last">
-        <a href="https://es-la.facebook.com/sushikatan/" target="_blank"><img src="img/social/facebook.svg" /></a>
+      <li>
+        <a href="#" onclick="copyToClipboard()"><span><i class="fa fa-phone"></i> 225511374</span></a>
       </li>
     </ul>
   </div>
@@ -75,7 +73,7 @@
               Valledor 3997 esq./Florencia
             </li>
             <li style="font-weight:700; font-size: 0.9em; margin: 0.6em; padding-top: 0.9em">
-              <i class="fa fa-phone"> </i> 225511374
+              <i class="fa fa-phone"> </i> <a style="color:white; cursor: pointer;" onclick="copyToClipboard()">225511374</a>
             </li>
           </ul>
           <img width="80%" style="margin-left:10%; margin-top:3em; width: 80%;" src="img/logos-transbank-21-1024x3541.png" />
@@ -94,16 +92,7 @@
   <script src="js/main.js"></script>
   <!-- Resource jQuery -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js"></script>
-  <script>
-    function copyToClipboard(element) {
-      var temp = jQuery("<input>");
-      jQuery("body").append(temp);
-      temp.val("+569123123123").select();
-      document.execCommand("copy");
-      temp.remove();
-      alert("Copiado al portapapeles.");
-    }
-  </script>
+
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-131386394-1"></script>
   <script>
